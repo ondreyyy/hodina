@@ -1,0 +1,35 @@
+.row{
+    display: flex;
+}
+
+.column{
+    width: 50%;
+    display: flex;
+}
+
+.background{
+    background-color: rgb(196, 255, 254);
+    opacity: 0.5;
+}
+
+.img{
+    width: 50%;
+}
+
+.header {
+    overflow: hidden;
+    background-color: #000000;
+    padding: 20px 10px;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    align-content: center;
+  }
+
+  .footer {
+    overflow: hidden;
+    background-color: #000000;
+    padding: 20px 10px;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    align-content: center;
+  }
